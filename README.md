@@ -41,5 +41,5 @@ Obtain your OpenAI API key by following the instructions on the OpenAI website.
 Rename the config.example.py file to config.py and replace 'YOUR_API_KEY' with your actual OpenAI API key.
 
 Run the main application:
-python main.py
+python project.py
 
