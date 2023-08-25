@@ -43,3 +43,8 @@ Rename the config.example.py file to config.py and replace 'YOUR_API_KEY' with y
 Run the main application:
 python project.py
 
+
+NOTE: You can use the same approach to run any of examples in this repo.
+If you have any questions redirect to me: gniit.nitin@gmail.com
+Thanks
+
