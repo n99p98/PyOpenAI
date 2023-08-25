@@ -18,6 +18,28 @@ In this project, we showcase the capabilities of the OpenAI GPT-3.5 model for au
 
 This repository provides you with a starting point to build and experiment with your own task automation ideas using Python and the OpenAI GPT-3.5 model.
 
+In this example, we are going to instruct ChatGPT - OpenAI to return in specified JSON format like this:
+
+{
+    "students": [
+        {
+            "id": 1,
+            "first_name": "John",
+            "last_name": "Doe",
+            "age": 20,
+            "grade": "Sophomore"
+        },
+        {
+            "id": 2,
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "age": 19,
+            "grade": "Freshman"
+        },
+        ...etc
+    ]
+}
+
 Features
 Task Automation: Leverage the OpenAI GPT-3.5 model to automate tasks through natural language instructions.
 Easy-to-Use: The project provides a simple and user-friendly interface to interact with the GPT-3.5 model.
